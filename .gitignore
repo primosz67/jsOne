@@ -1,0 +1,9 @@
+.svn
+target
+.classpath
+bin
+**.zip
+**.jar
+.settings
+hooks
+.project
